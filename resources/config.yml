@@ -1,0 +1,15 @@
+# Made by Terpz710 ;p
+
+# Min probability: 1
+# Max probability: 100
+# You can customize/add blocks
+
+Probality:
+  cobblestone: 90
+  coal_ore: 75
+  iron_ore: 50
+  redstone_ore: 25
+  diamond_ore: 10
+  emerald_ore: 2
+  gold_ore: 13
+  lapis_ore: 10
